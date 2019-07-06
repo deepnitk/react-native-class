@@ -23,7 +23,6 @@ export function getMetricMetaInfo(metric) {
               color={black}
               size={35}
             />
-            <MaterialIcons name="directions-run" color={"black"} size={35} />
           </View>
         );
       }
@@ -42,7 +41,6 @@ export function getMetricMetaInfo(metric) {
               color={black}
               size={32}
             />
-            <MaterialCommunityIcons name="bike" color={black} size={32} />
           </View>
         );
       }
@@ -61,8 +59,7 @@ export function getMetricMetaInfo(metric) {
               color={black}
               size={35}
             />
-            <MaterialCommunityIcons name="swim" color={black} size={35} />
-          </View>
+            </View>
         );
       }
     },
@@ -80,8 +77,7 @@ export function getMetricMetaInfo(metric) {
               color={black}
               size={30}
             />
-            <FontAwesome name="bed" color={black} size={30} />
-          </View>
+            </View>
         );
       }
     },
@@ -99,8 +95,7 @@ export function getMetricMetaInfo(metric) {
               color={black}
               size={35}
             />
-            <MaterialCommunityIcons name="food" color={black} size={35} />
-          </View>
+            </View>
         );
       }
     }
